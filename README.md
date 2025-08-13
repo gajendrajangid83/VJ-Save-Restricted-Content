@@ -1,6 +1,16 @@
+
+
 # VJ Save Restricted Bot
 
 *A Telegram Bot, Which can send you restricted content by it's post link with <b>login feature</b>*
+
+
+
+## Deploy Via Buttons
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/gajendrajangid83/CP-BYPASS.git)
+
+
 
 ---
 
